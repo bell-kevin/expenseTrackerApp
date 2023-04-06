@@ -6,6 +6,8 @@ https://github.com/academind/react-native-practical-guide-code/tree/10-http/code
 
 https://reactnavigation.org/docs/getting-started/
 
+https://github.com/axios/axios
+
 ## How to:
 
 Create one app. for both Android and iOS (Apple) using one computer alorithm for both apps. You'll need Visual Studio Code and Android Studio to get started:

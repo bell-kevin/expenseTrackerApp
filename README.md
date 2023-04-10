@@ -10,6 +10,8 @@
 
 ![p](https://github.com/bell-kevin/expenseTrackerApp/blob/main/screenshots/4.PNG)
 
+![p](https://github.com/bell-kevin/expenseTrackerApp/blob/main/screenshots/5.PNG)
+
 https://github.com/academind/react-native-practical-guide-code/tree/10-http/code/07-handling-request-errors
 
 https://reactnavigation.org/docs/getting-started/

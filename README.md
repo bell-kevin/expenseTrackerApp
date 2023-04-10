@@ -2,6 +2,14 @@
 
 <a name="readme-top"></a>
 
+![p](https://github.com/bell-kevin/expenseTrackerApp/blob/main/screenshots/1.PNG)
+
+![p](https://github.com/bell-kevin/expenseTrackerApp/blob/main/screenshots/2.PNG)
+
+![p](https://github.com/bell-kevin/expenseTrackerApp/blob/main/screenshots/3.PNG)
+
+![p](https://github.com/bell-kevin/expenseTrackerApp/blob/main/screenshots/4.PNG)
+
 https://github.com/academind/react-native-practical-guide-code/tree/10-http/code/07-handling-request-errors
 
 https://reactnavigation.org/docs/getting-started/

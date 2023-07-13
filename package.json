@@ -24,7 +24,7 @@
     "react-native-safe-area-context": "4.7.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.22.8"
+    "@babel/core": "^7.22.9"
   },
   "private": true
 }
